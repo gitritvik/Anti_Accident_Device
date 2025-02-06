@@ -49,6 +49,13 @@ Ensure proper wiring as follows:
 ## Author
 Ritvik Rai
 
+## Project Diagram
+![Anti-Accident Device](https://github.com/gitritvik/Anti_Accident_Device/blob/main/AAD%20diagram.jpg)
+
+##Project Image
+![Anti-Accident Device](https://github.com/gitritvik/Anti_Accident_Device/blob/main/IMG20211223105547.jpg)
+
+
 
 
 
